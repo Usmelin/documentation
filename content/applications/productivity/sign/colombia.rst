@@ -10,7 +10,7 @@ electronic signatures in Colombia.
 Legal framework for electronic signatures in Colombia
 =====================================================
 
-In Colombia, electronic signatures are regulated under the `Law 529 of 1999 <https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4276#:~:text=%E2%80%9CPor%20medio%20de%20la%20cual,y%20se%20dictan%20otras%20disposiciones.%E2%80%9D>`_.
+In Colombia, electronic signatures are regulated under the `Law 527 of 1999 <https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4276#:~:text=%E2%80%9CPor%20medio%20de%20la%20cual,y%20se%20dictan%20otras%20disposiciones.%E2%80%9D>`_.
 The law establishes the legal basis for acknowledging electronic records, contracts, and signatures.
 The key points of the law include:
 
